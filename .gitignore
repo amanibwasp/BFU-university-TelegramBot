@@ -4,3 +4,4 @@ token.json
 studhsebot.service
 venv
 .idea
+__pycache__
